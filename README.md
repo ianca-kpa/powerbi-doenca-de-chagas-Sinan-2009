@@ -20,8 +20,8 @@ Utilizando o Power BI, explorei dados do SINAN relacionados à Doença de Chagas
 
 ## 📸 Capturas de Tela
 
-![Dashboard principal](imagens/dashboard1.png)
-![Gráfico por estado](imagens/dashboard2.png)
+![Dashboard principal](dashboard_1.png)
+![Gráfico por estado](dashboard_2.png)
 
 ---
 
