@@ -1,6 +1,7 @@
 # 📊 Análise das Notificações de Doença de Chagas (2009)
 
 Este projeto foi desenvolvido como parte da Especialização em Ciência de Dados e Saúde Digital – UFPE.
+
 Utilizando o Power BI, explorei dados do SINAN relacionados à Doença de Chagas no ano de 2009, com foco na distribuição de casos por estado, sexo, raça, escolaridade, forma de infecção e resultado de exames.
 
 ---
@@ -52,6 +53,7 @@ A análise contemplou aspectos demográficos, regionais e clínicos das notifica
 # 📊 Chagas Disease Notification Analysis (2009)
 
 This project was developed during my specialization in Data Science and Digital Health at UFPE – Federal University of Pernambuco (Brazil).
+
 Using Power BI, I explored SINAN (Brazil’s Notifiable Diseases Information System) data related to Chagas Disease in 2009. The goal was to analyze notifications by geographic region, patient demographics, infection types, and exam results.
 
 ---
